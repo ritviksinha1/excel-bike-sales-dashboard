@@ -42,7 +42,7 @@ Out of all customers in the dataset, **481 purchased a bike**, and this analysis
 - **Size:** 1,000 customer records, 15 columns
 - **Sheet:** `Dataset-Bike-Purchase`
 
-![Data preview](images/Screenshot-Data-preview.png)
+![Data preview](https://github.com/ritviksinha1/excel-bike-sales-dashboard/blob/main/data/Screenshot-Data-preview.png)
 
 | Column           | Description                                                                   |
 | ---------------- | ----------------------------------------------------------------------------- |
